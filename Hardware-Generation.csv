@@ -1,0 +1,37 @@
+Console_ID,Generation,Console_Name,Manufacturer,Release_Year,Type,Sales_Million,Launch_Price_USD,Media_Format,CPU_Speed_MHz
+1,1,Magnavox Odyssey,Magnavox,1972,Home,0.35,100,Printed Circuit Board,0.00
+2,1,Coleco Telstar,Coleco,1976,Home,1.00,50,Built-in Chip,0.00
+3,1,Atari PONG (Official),Atari,1975,Home,1.00,100,Built-in Chip,0.00
+4,2,Atari 2600 (VCS),Atari,1977,Home,30.00,199,Cartridge,1.19
+5,2,ColecoVision / Intellivision,Mattel/Coleco,1979,Home,9.50,299,Cartridge,3.58
+6,2,Magnavox Odyssey 2,Magnavox,1978,Home,2.00,179,Cartridge,1.79
+7,3,Nintendo Entertainment System (NES),Nintendo,1983,Home,61.91,199,Cartridge,1.79
+8,3,Sega Master System,Sega,1985,Home,13.00,150,Cartridge/Card,3.58
+9,3,Atari 7800,Atari,1986,Home,1.00,140,Cartridge,1.79
+10,4,Game Boy & Game Boy Color,Nintendo,1989,Handheld,118.60,89,Cartridge,4.19
+11,4,Super Nintendo (SNES),Nintendo,1990,Home,49.10,199,Cartridge,3.58
+12,4,Sega Mega Drive / Genesis,Sega,1888,Home,30.70,189,Cartridge,7.67
+13,4,TurboGrafx-16 / PC Engine,NEC,1987,Home,10.00,199,HuCard,7.16
+14,4,Other 4th Gen (Neo Geo/Game Gear),Various,1990,Various,12.00,149,Cartridge,3.58
+15,5,PlayStation 1,Sony,1994,Home,102.50,299,CD-ROM,33.86
+16,5,Nintendo 64,Nintendo,1996,Home,32.90,199,Cartridge,93.75
+17,5,Sega Saturn,Sega,1994,Home,9.20,399,CD-ROM,28.60
+18,5,Other 5th Gen (3DO/Jaguar/Pippin),Various,1993,Home,3.50,699,CD-ROM,26.00
+19,6,PlayStation 2,Sony,2000,Home,160.00,299,DVD-ROM,294.90
+20,6,GameBoy Advance,Nintendo,2001,Handheld,81.50,99,Cartridge,16.78
+21,6,Xbox (Original),Microsoft,2001,Home,24.00,299,DVD-ROM,733.00
+22,6,Nintendo GameCube,Nintendo,2001,Home,21.70,199,Optical Disc,485.00
+23,6,Sega Dreamcast,Sega,1998,Home,9.10,199,GD-ROM,200.00
+24,7,Nintendo DS,Nintendo,2004,Handheld,154.00,149,Cartridge,67.00
+25,7,Nintendo Wii,Nintendo,2006,Home,101.60,249,Optical Disc,729.00
+26,7,PlayStation 3,Sony,2006,Home,87.40,499,Blu-ray,3200.00
+27,7,Xbox 360,Microsoft,2005,Home,84.00,299,DVD-ROM,3200.00
+28,7,PlayStation Portable (PSP),Sony,2004,Handheld,80.00,249,UMD,333.00
+29,8,PlayStation 4,Sony,2013,Home,117.00,399,Blu-ray,1600.00
+30,8,Nintendo Switch 1,Nintendo,2017,Hybrid,155.90,299,Flash Card,1020.00
+31,8,Xbox One,Microsoft,2013,Home,49.00,499,Blu-ray,1750.00
+32,8,Nintendo Wii U,Nintendo,2012,Home,13.50,299,Optical Disc,1240.00
+33,9,PlayStation 5,Sony,2020,Home,93.70,499,Ultra HD Blu-ray/SSD,3500.00
+34,9,Xbox Series X/S,Microsoft,2020,Home,35.00,499,Ultra HD Blu-ray/SSD,3800.00
+35,9,Nintendo Switch 2,Nintendo,2025,Hybrid,20.76,399,Flash Card,2100.00
+36,9,Handheld PC Hybrids (Steam Deck/Ally),Various,2022,Handheld PC,12.00,399,Digital/SSD,3500.00
